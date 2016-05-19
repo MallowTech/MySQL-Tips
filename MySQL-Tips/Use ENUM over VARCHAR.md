@@ -1,5 +1,5 @@
 ---
-Title:Use ENUM over VARCHAR
+Title: Use ENUM over VARCHAR
 Tip-number: 3
 Tip-username: Vijayanand
 Tip-username-profile: https://github.com/vijayanandp
